@@ -4,13 +4,13 @@ We understand that data is now everywhere
 This project helps us get the basic idea of how data and trading can merged together
 <ol>
   <li>
-    <b>The first project is a Equi Weghted Portfolio for S&P 500<b>
+    <b>The first project is a Equi-Weghted Portfolio for S&P 500<b>
   </li>
   <li>
     <b>The second project follows the method of Momentum Investing</b>
       </li>
       </ol>
-With each project we understand the basics of Trading along with how we can use technology with Investing Startegies
+With each project we understand the basics of Trading along with how we can use technology with Investing Strategies
     #Happy Learning
     <hr>
 Tech Stack
